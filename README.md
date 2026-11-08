@@ -2,7 +2,7 @@
 
 **Computer Engineering Student**
 
-I am a first-year Computer Engineering student at İzmir Kâtip Çelebi University, focusing on backend architectures, API engineering, and distributed systems.
+I am a first-year Computer Engineering student, focusing on backend architectures, API engineering, and distributed systems.
 
 ---
 
