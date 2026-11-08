@@ -1,6 +1,6 @@
 # Mert Efe Yüksel
 
-**Computer Engineering Student · Backend Trainee @ IEEE İKÇÜ TechOps**
+**Computer Engineering Student**
 
 I am a first-year Computer Engineering student at İzmir Kâtip Çelebi University, focusing on backend architectures, API engineering, and distributed systems.
 
@@ -8,7 +8,7 @@ I am a first-year Computer Engineering student at İzmir Kâtip Çelebi Universi
 
 ### 📌 Current Focus & Learning
 - 💻 Building backend services and exploring system resilience with **C# / .NET** and **C**.
-- 🛠️ Contributing to **IEEE İKÇÜ TechOps** infrastructure and Project Lab initiatives.
+- 🛠️ Active in project development and practical backend implementations.
 - ⚙️ Deepening knowledge in Git workflows, RESTful API design, and database modeling.
 
 ---
