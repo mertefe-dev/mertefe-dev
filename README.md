@@ -1,16 +1,24 @@
-## Hi there 👋
+# Mert Efe Yüksel
 
-<!--
-**mertefe-dev/mertefe-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Engineering Student · Backend Trainee @ IEEE İKÇÜ TechOps**
 
-Here are some ideas to get you started:
+I am a first-year Computer Engineering student at İzmir Kâtip Çelebi University, focusing on backend architectures, API engineering, and distributed systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📌 Current Focus & Learning
+- 💻 Building backend services and exploring system resilience with **C# / .NET** and **C**.
+- 🛠️ Contributing to **IEEE İKÇÜ TechOps** infrastructure and Project Lab initiatives.
+- ⚙️ Deepening knowledge in Git workflows, RESTful API design, and database modeling.
+
+---
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** C, C#
+- **Tools & Platforms:** Git, GitHub, Visual Studio, VS Code
+
+---
+
+### 📬 Connect With Me
+- **GitHub:** [mertefe-dev](https://github.com/mertefe-dev)
+- **Email:** mertefeyuksel26@gmail.com
